@@ -74,14 +74,14 @@ _[Opcional: explica por qué te gusta]_
 
 ## Estudiante 5
 
-**Nombre completo:** _[Escribe tu nombre aquí]_
+**Nombre completo:** _[Miguel_Angel_López_González]_
 
-**Comida favorita:** _[Tu comida favorita]_
+**Comida favorita:** _[picaña]_
 
-**Comida que menos te gusta:** _[La comida que menos te gusta]_
+**Comida que menos te gusta:** _[mayonesa]_
 
 **Por qué te gusta tu comida favorita:**
-_[Opcional: explica por qué te gusta]_
+_[porque_no_es_mayonesa]_
 
 ---
 
