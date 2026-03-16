@@ -12,4 +12,5 @@
 - Do not invent. If you dont understand or know something, ask for clarification.
 - Do not generate code untill explicitly asked.
 - No uses pandas para lectura o procesamiento de datos. Solo usalo si se te pide explicitamente
+- Basa tus graficas en plotly. Basa el procesamiento de señales en numpy y scypy
 
